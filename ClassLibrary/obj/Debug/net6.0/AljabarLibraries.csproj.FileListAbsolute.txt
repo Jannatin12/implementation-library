@@ -1,0 +1,12 @@
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\AljabarLibraries.csproj.AssemblyReference.cache
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\AljabarLibraries.AssemblyInfoInputs.cache
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\AljabarLibraries.AssemblyInfo.cs
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\bin\Debug\net6.0\AljabarLibraries.deps.json
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\bin\Debug\net6.0\AljabarLibraries.dll
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\bin\Debug\net6.0\AljabarLibraries.pdb
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\AljabarLibraries.dll
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\refint\AljabarLibraries.dll
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\AljabarLibraries.pdb
+D:\Kuliah\C#\tpmodul10_1302213051\ClassLibrary\obj\Debug\net6.0\ref\AljabarLibraries.dll
